@@ -5,11 +5,10 @@
 - Natural Language Process
 - Design
 ## I’m currently working on ...
-- Korea University, Dept. of Computer Science & Engineering, Sophomore | 고려대학교 정보대학 컴퓨터학과 2학년 재학 중
-- Senior member / technical staff of AIKU (AI academy of Korea University) | AIKU 시니어 멤버 및 기술팀 운영진
-- AI Core in KUGODS (Korea Uni. Google Developer Student Club) | KUGODS(고려대학교 구글 개발자 동아리) AI 코어 멤버
-- Application of Linear Algebra & Numpy instructor in KUGODS | KUGODS에서 응용선형대수, 넘파이 강의 진행
-- Design Staff of FC COMING | 고려대학교 정보대학 축구 동아리 FC COMING 디자인팀 운영진
+- Sophomore @ **Korea University, Dept. of Computer Science & Engineering**
+- Senior member / technical staff / CV Team Leader @ **AIKU (AI academy of Korea University)**
+- AI Core / Application of Linear Algebra & Numpy instructor @ **KUGODS (Korea Uni. Google Developer Student Club)**
+- Design Staff @ **FC COMING (Football Club of Korea Uni. College of Informatics)**
 
 ## Projects 
 ### in Progress
