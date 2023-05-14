@@ -1,4 +1,4 @@
-# Hello, I'm Jeon Seonghu!
+# 👋 Hello, I'm Jeon Seonghu!
 ## I'm interested in ...
 - Machine Learning & Deep Learning
 - Computer Vision
