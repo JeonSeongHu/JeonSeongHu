@@ -38,6 +38,8 @@
   - 2023 East Asia GDSC Global Hackathon “The Bridge” | People's Choice Award : <a href=https://github.com/chaeeun-Han/culture_finder>CultureFinder<a>
   - 2023 2nd AIKUTHON | 2nd Place : <a href=https://www.kaggle.com/competitions/aikuthon-2>Kaggle<a/> / <a href=https://youtu.be/kIWjQPc5ToM>Presentation<a/>
 
+## Stats
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsh0423)](https://solved.ac/jsh0423/)
 <!--
 **JeonSeongHu/JeonSeongHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
