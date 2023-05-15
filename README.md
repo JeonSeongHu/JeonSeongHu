@@ -6,7 +6,7 @@
 - Design
 ## I’m currently working on ...
 - Sophomore @ **Korea University, Dept. of Computer Science & Engineering**
-- Senior member / technical staff / CV Team Leader @ **AIKU (AI academy of Korea University)**
+- Senior / Staff / CV Team Leader @ **AIKU (AI academy of Korea University)**
 - AI Core / Application of Linear Algebra & Numpy instructor @ **KUGODS (Korea Uni. Google Developer Student Club)**
 - Designer @ **FC COMING (Football Club of Korea Uni. College of Informatics)**
 
