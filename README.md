@@ -10,18 +10,6 @@
 - AI Core / Application of Linear Algebra & Numpy instructor @ **KUGODS (Korea Uni. Google Developer Student Club)**
 - Designer @ **FC COMING (Football Club of Korea Uni. College of Informatics)**
 
-## Projects 
-### in Progress
-- CfN & SPIRiT-GAN : Classifier for NeRF & Sparse input Representation in Transformer with GAN
-- OpenZICS : Open vocabulary Zero-shot Image Captioning with Segmant anything
-- MyWiki : Wiki-style Social Media
-- attune & MeritsUp : Song Recommendation system through image and text
-### Done
-- CultureFinder
-- Mom vs. Dad
-- Pytrader
-- Daejeon Traffic Accident Analysis
-
 
 ## Skill Set
 - <b>Programming Languages<b/><br>
