@@ -11,8 +11,8 @@
   * Double Majoring @ Dept. of Statistics | 정경대학 통계학과 이중전공
  
 ## I’m currently working on ...
-* Senior / Staff @ **AIKU (AI academy of Korea University)**
-* AI Core / Application of Linear Algebra & Numpy instructor @ **KUGODS (Korea Uni. Google Developer Student Club)**
+* Senior / Technical \& Academic Executive @ **AIKU (AI academy of Korea University)**
+* AI Core / Application of Linear Algebra \& Numpy instructor @ **KUGODS (Korea Uni. Google Developer Student Club)**
 * Designer @ **FC COMING (Football Club of Korea Uni. College of Informatics)**
 
 ## Stats
