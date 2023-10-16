@@ -12,8 +12,7 @@
  
 ## I’m currently working on ...
 * Senior / Technical \& Academic Executive @ **AIKU (AI academy of Korea University)**
-* AI Core / Application of Linear Algebra \& Numpy instructor @ **KUGODS (Korea Uni. Google Developer Student Club)**
-* Designer @ **FC COMING (Football Club of Korea Uni. College of Informatics)**
+* AI Core @ **GDSC Korea Univ. (Google Developer Student Club Korea University)**
 
 ## Stats
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsh0423)](https://solved.ac/jsh0423/)
