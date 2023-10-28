@@ -11,7 +11,7 @@
   * Double Majoring @ Dept. of Statistics | 정경대학 통계학과 이중전공
  
 ## I’m currently working on ...
-* Senior / Technical \& Academic Executive @ **AIKU (AI academy of Korea University)**
+* OB / Technical \& Academic Executive @ **AIKU (AI academy of Korea University)**
 * AI Core @ **GDSC Korea Univ. (Google Developer Student Club Korea University)**
 
 ## Stats
