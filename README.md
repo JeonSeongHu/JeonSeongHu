@@ -4,8 +4,8 @@
    * Double Majoring in Dept. of Statistics
  
 ## I’m currently working on ...
-* 3rd President of  @ [**AIKU (AI academy in Korea University)**](https://www.youtube.com/channel/UCj4yFYkRMFDXD6IP4o3l2Ag) (2023.12 - )
-* AI Core of **GDSC Korea Univ. (Google Developer Student Club Korea University)** (2023.01 - )
+* 3rd President, [**AIKU (AI academy in Korea University)**](https://www.youtube.com/channel/UCj4yFYkRMFDXD6IP4o3l2Ag) (2023.12 - )
+* AI Core, **GDSC Korea Univ. (Google Developer Student Club Korea University)** (2023.01 - )
 
 ## I'm interested in ...
 - Machine Learning & Deep Learning (Representation Learning, Multimodal Learning, etc)
