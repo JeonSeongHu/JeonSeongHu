@@ -1,18 +1,66 @@
-## Education
-* **Korea University** (2022. 03. - )
-   * Sophomore, Dept. of Computer Science & Engineering 
-   * Double Majoring in Dept. of Statistics
+<div align="center">
+ <h2 align="center"> @JeonSeongHu 🖥️ </h2>
+ <p align="center"> I am an undergraduate student of <em> Korea Univeristy, Computer Science & Engineering department. </em> </p>
+
+<br>
+
+<h3 align="left"> | Research Interest |</h3>
+
+<p align="left">
+<strong>Computer Vision</strong> (Diffusion, Tracking, 3D Vision, etc ...) <br>
+<strong>Representation Learning</strong> (Metric Learning, Self-Supervised Learning, etc ...)
+</p>
+
+<br>
+
+<h3 align="left"> | Activity |</h3>
+
+<p align="left">
+<em>Do you want to know more? Here is my <a href="https://github.com/JeonSeongHu/JeonSeongHu/blob/main/JeonSeongHu_CV.pdf">CV</a>.</em>
+</p>
+
+<table>
+  <head>
+    <tr>
+      <th>Organization</th>
+      <th>Activity</th>
+      <th>Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3"><strong>AIKU</strong>: AI Academy of Korea University</td>
+      <td><strong>President</strong></td>
+      <td>2023.12. - present</td>
+    </tr>
+    <tr>
+      <td>Administrator</td>
+      <td>2023.01. - 2023.12. </td>
+    </tr>
+    <tr>
+      <td>Member</td>
+      <td>2022.07. - present </td>
+    </tr>
+    <tr>
+      <td>Korea University <strong>CVLAB</strong></td>
+      <td><strong>Internship</strong></td>
+      <td>2023.12. - present</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>GDSC KU</strong>: Google Developer Students Club Korea Univ.</td>
+      <td><strong>AI Core</strong></td>
+      <td>2023.01. - present</td>
+    </tr>
+    <tr>
+      <td>Crew</td>
+      <td>2022.09. - 2022.12.</td>
+    </tr>
+  </tbody>
+</table>
+
+
  
-## I’m currently working on ...
-* 3rd President, [**AIKU (AI academy in Korea University)**](https://www.youtube.com/channel/UCj4yFYkRMFDXD6IP4o3l2Ag) (2023.12 - )
-* AI Core, **GDSC Korea Univ. (Google Developer Student Club Korea University)** (2023.01 - )
-* Lab Intern, **CVLAB** under Prof. Seungryong Kim (2022.09~)
+ <br>
+</div>
 
-## I'm interested in ...
-- Machine Learning & Deep Learning (Representation Learning, Multimodal Learning, etc)
-- Computer Vision
-- Natural Language Process
-
-## Stats
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsh0423)](https://solved.ac/jsh0423/)
 
