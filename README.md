@@ -1,24 +1,19 @@
 <div align="center">
  <h2 align="center"> @JeonSeongHu 🖥️ </h2>
  <p align="center"> I am an undergraduate student of <em> Korea Univeristy, Computer Science & Engineering department. </em> </p>
-
 <br>
-
+<hr>
 <h3 align="left"> | Research Interests |</h3>
-
 <p align="left">
 <strong>Computer Vision</strong> (Diffusion, Tracking, 3D Vision, etc ...) <br>
 <strong>Representation Learning</strong> (Metric Learning, Self-Supervised Learning, etc ...)
 </p>
-
 <br>
-
+<hr>
 <h3 align="left"> | Activities |</h3>
-
 <p align="left">
 <em>Do you want to know more? Here is my <a href="https://github.com/JeonSeongHu/JeonSeongHu/blob/main/JeonSeongHu_CV.pdf">CV</a>.</em>
 </p>
-
 <table>
   <head>
     <tr>
@@ -57,10 +52,6 @@
     </tr>
   </tbody>
 </table>
-
-
- 
- <br>
 </div>
 
 
