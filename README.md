@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="left"> | Research Interest |</h3>
+<h3 align="left"> | Research Interests |</h3>
 
 <p align="left">
 <strong>Computer Vision</strong> (Diffusion, Tracking, 3D Vision, etc ...) <br>
@@ -13,7 +13,7 @@
 
 <br>
 
-<h3 align="left"> | Activity |</h3>
+<h3 align="left"> | Activities |</h3>
 
 <p align="left">
 <em>Do you want to know more? Here is my <a href="https://github.com/JeonSeongHu/JeonSeongHu/blob/main/JeonSeongHu_CV.pdf">CV</a>.</em>
