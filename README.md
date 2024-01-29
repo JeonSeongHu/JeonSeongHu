@@ -21,7 +21,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3"><strong>AIKU</strong>: AI Academy of Korea University</td>
+      <td rowspan="3"><a href="https://aiku.notion.site/aiku/b614c69220704b848758e5cf21a54238"><strong>AIKU</strong>: AI Academy of Korea University</a></td>
       <td><strong>President</strong></td>
       <td>2023.12. - present</td>
     </tr>
@@ -34,12 +34,12 @@
       <td>2022.07. - present </td>
     </tr>
     <tr>
-      <td>Korea University <strong>CVLAB</strong></td>
+      <td><a href="https://cvlab.korea.ac.kr/">Korea University <strong>CVLAB</strong></a></td>
       <td><strong>Internship</strong></td>
       <td>2023.12. - present</td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>GDSC KU</strong>: Google Developer Students Club Korea Univ.</td>
+      <td rowspan="2"><a href="https://developers.google.com/community/gdsc?hl=ko"><strong>GDSC KU</strong>: Google Developer Students Club Korea Univ.</a></td>
       <td><strong>AI Core</strong></td>
       <td>2023.01. - present</td>
     </tr>
