@@ -4,7 +4,7 @@
 <hr>
 <h3 align="center"> | Research Interests |</h3>
 <p align="center">
-📷<strong>Computer Vision</strong> (Diffusion, Point Tracking, 3D Vision, etc ...) <br>
+📷<strong>Computer Vision</strong> (Diffusion Models, Point Tracking, 3D Vision, etc ...) <br>
 🖇️<strong>Representation Learning</strong> (Metric Learning, Self-Supervised Learning, etc ...)
 </p>
 <hr>
