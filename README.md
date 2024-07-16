@@ -21,13 +21,9 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3"><a href="https://aiku.notion.site/aiku/b614c69220704b848758e5cf21a54238"><strong>AIKU</strong>: AI Academy of Korea University</a></td>
-      <td><strong>President</strong></td>
-      <td>2023.12. - present</td>
-    </tr>
-    <tr>
-      <td>Administrator</td>
-      <td>2023.01. - 2023.12. </td>
+      <td rowspan="2"><a href="https://aiku.notion.site/aiku/b614c69220704b848758e5cf21a54238"><strong>AIKU</strong>: Korea University AI Society</a></td>
+      <td><strong>Lead</strong></td>
+      <td>2023.12. - 2024.07.</td>
     </tr>
     <tr>
       <td>Member</td>
@@ -39,7 +35,11 @@
       <td>2023.12. - present</td>
     </tr>
     <tr>
-      <td rowspan="2"><a href="https://developers.google.com/community/gdsc?hl=ko"><strong>GDSC KU</strong>: Google Developer Students Club Korea Univ.</a></td>
+      <td rowspan="3"><a href="https://developers.google.com/community/gdsc?hl=ko"><strong>GDSC KU</strong>: Google Developer Students Club Korea Univ.</a></td>
+      <td><strong>DevRel Core</strong></td>
+      <td>2024.07. - present</td>
+    </tr>
+    <tr>
       <td><strong>AI Core</strong></td>
       <td>2023.01. - present</td>
     </tr>
