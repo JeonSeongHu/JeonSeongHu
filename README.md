@@ -29,7 +29,7 @@
       <td>2022.07. - present </td>
     </tr>
     <tr>
-      <td><a href="https://cvlab.korea.ac.kr/"><strong>CVLAB</strong>, Korea University</a></td>
+      <td><a href="https://cvlab.kaist.ac.kr/"><strong>CVLAB</strong>, KAIST</a></td>
       <td><strong>Internship</strong></td>
       <td>2023.12. - present</td>
     </tr>
