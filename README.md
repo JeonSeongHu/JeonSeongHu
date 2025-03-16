@@ -34,7 +34,7 @@
       <td>2023.12. - present</td>
     </tr>
     <tr>
-      <td rowspan="3"><a href="https://gdscku.xyz"><strong>GDSC KU</strong>: Google Developer Students Club Korea Univ.</a></td>
+      <td rowspan="3"><a href="https://gdscku.xyz"><strong>GDGoC KU</strong>: Google Developer Groups On Campus, Korea Univ.</a></td>
       <td><strong>DevRel Lead</strong></td>
       <td>2024.07. - present</td>
     </tr>
