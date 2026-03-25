@@ -4,7 +4,7 @@
 
 **M.S. Student @ [KAIST CVLAB](https://cvlab.kaist.ac.kr/)** · Artificial Intelligence
 
-Generative 3D/4D Models · Physical & Perceptual Priors · Flow Matching
+3D/4D Vision · Generative Models · Robotics
 
 [![Website](https://img.shields.io/badge/Website-jeonseonghu.github.io-4361ee?style=flat-square)](https://jeonseonghu.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seonghu-jeon-3a74402b1/)
