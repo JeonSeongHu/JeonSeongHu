@@ -19,8 +19,8 @@ Generative 3D/4D Models · Physical & Perceptual Priors · Flow Matching
 |---|---|---|
 | **C2** | [**CAMEO**: Correspondence-Attention Alignment for Multi-View Diffusion Models](https://cvlab-kaist.github.io/CAMEO/) | **CVPR 2026** |
 | **C1** | [**ReMoTE**: A Benchmark for Object Motion Transfer](https://ieeexplore.ieee.org/document/11137589) | ITC-CSCC 2025 (Oral, 1st Author) |
-| **S2** | [**GLD**: Repurposing Geometric Foundation Models for Multi-view Diffusion](https://cvlab-kaist.github.io/GLD/) | arXiv 2025 |
-| **S1** | [**CSFM**: Better Source, Better Flow](https://junwankimm.github.io/CSFM/) | arXiv 2025 |
+| **S2** | [**GLD**: Repurposing Geometric Foundation Models for Multi-view Diffusion](https://cvlab-kaist.github.io/GLD/) | Under Review, 2026 |
+| **S1** | [**CSFM**: Better Source, Better Flow](https://junwankimm.github.io/CSFM/) | Under Review, 2026 |
 
 #### Education
 
